@@ -1,0 +1,8 @@
+/Users/tzvarayi/RiderProjects/WindowsFormsApp3/ConsoleApp1/obj/Debug/netcoreapp3.1/Expenses manager.csprojAssemblyReference.cache
+/Users/tzvarayi/RiderProjects/WindowsFormsApp3/ConsoleApp1/obj/Debug/netcoreapp3.1/Expenses manager.AssemblyInfoInputs.cache
+/Users/tzvarayi/RiderProjects/WindowsFormsApp3/ConsoleApp1/obj/Debug/netcoreapp3.1/Expenses manager.AssemblyInfo.cs
+/Users/tzvarayi/RiderProjects/WindowsFormsApp3/ConsoleApp1/obj/Debug/netcoreapp3.1/Expenses manager.csproj.CoreCompileInputs.cache
+C:\Users\Tsue\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\ConsoleApp1\obj\Debug\netcoreapp3.1\Expenses manager.csprojAssemblyReference.cache
+C:\Users\Tsue\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\ConsoleApp1\obj\Debug\netcoreapp3.1\Expenses manager.AssemblyInfoInputs.cache
+C:\Users\Tsue\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\ConsoleApp1\obj\Debug\netcoreapp3.1\Expenses manager.AssemblyInfo.cs
+C:\Users\Tsue\Downloads\Telegram Desktop\WindowsFormsApp3\WindowsFormsApp3\ConsoleApp1\obj\Debug\netcoreapp3.1\Expenses manager.csproj.CoreCompileInputs.cache
